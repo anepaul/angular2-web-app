@@ -32,6 +32,11 @@ node_modules/
 # Optional REPL history
 .node_repl_history
 
-# Transpilled Code
+## Additions ##
+
+# Transpilled and Generated Code
 *.js
 typings/
+
+# Workspace Specific
+.vscode/
